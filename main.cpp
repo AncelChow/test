@@ -14,7 +14,9 @@ int main(void)
      (40*pow(E,20*(-1 +pow(p,2)/pow(k,2)))*(-1 +pow(k,2)/pow(p,2))*
         pow(p,2))/(pow(1 +pow(E,20*(-1 +pow(p,2)/pow(k,2))),2)*pow(k,3)));
 
+	//cout << a << endl;
 	cout << a << endl;
+    //amend
 
 	return 0;
 }
